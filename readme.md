@@ -1,6 +1,6 @@
 <!-- Banner with better cropping -->
 <div align="center">
-  <img src="https://i.ibb.co/sdF8WMn5/vib-banner.png" alt="ViB Banner" width="100%" style="max-height: 200px; object-fit: cover; object-position: center;">
+  <img src="https://imgur.com/qfDPHUx.png" alt="ViB Banner" width="100%" style="max-height: 200px; object-fit: cover; object-position: center;">
 </div>
 
 <!-- Improved prominence for typing effect -->
